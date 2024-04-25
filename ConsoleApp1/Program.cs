@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("I hate this roundabouty bullshit with uploading github, looney tunes type a grade");
         }
     }
 }
