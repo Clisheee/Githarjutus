@@ -15,6 +15,16 @@
             {
 Console.WriteLine("yippee");
             }
+
+
+
+Console.WriteLine("Press 2")
+            int y = Convert.ToInt32(Console.Readline());
+            
+            if (y = 2){
+                Console.WriteLine("Wow you followed instructions from a computer, you automaton");
+            }
+
         }
     }
 }
